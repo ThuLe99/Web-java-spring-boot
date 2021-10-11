@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/ptithcm/bean/Account.java=UTF-8
+encoding//src/ptithcm/bean/Category.java=UTF-8
+encoding//src/ptithcm/bean/Order.java=UTF-8
+encoding//src/ptithcm/bean/Product.java=UTF-8
+encoding//src/ptithcm/bean/ProductOrder.java=UTF-8
+encoding//src/ptithcm/bean/Role.java=UTF-8
+encoding//src/ptithcm/bean/User.java=UTF-8
+encoding//src/ptithcm/controller/HomeController.java=UTF-8
+encoding//src/ptithcm/controller/admin/HoaDonAdminCotroller.java=UTF-8
+encoding//src/ptithcm/controller/admin/HomeAdminComtroller.java=UTF-8
